@@ -1,11 +1,9 @@
-# team-collaboration-app (working name)
+# lovable-star-tortoise
 
 ## Marketable Names:
 
-1. ???
-2. ???
-3. ???
-4. ???
-5. ???
+1. Chatter
+2. CoChatter
+
 
 # Workflow
